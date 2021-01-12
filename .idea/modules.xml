@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/001-springsecurity/001-springsecurity.iml" filepath="$PROJECT_DIR$/001-springsecurity/001-springsecurity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/002-acl-parent/002-acl-parent.iml" filepath="$PROJECT_DIR$/002-acl-parent/002-acl-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringSecurity.iml" filepath="$PROJECT_DIR$/.idea/SpringSecurity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/002-acl-parent/infrastruture/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/002-acl-parent/infrastruture/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/002-acl-parent/common/common.iml" filepath="$PROJECT_DIR$/002-acl-parent/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/002-acl-parent/infrastruture/infrastruture.iml" filepath="$PROJECT_DIR$/002-acl-parent/infrastruture/infrastruture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/002-acl-parent/service/service.iml" filepath="$PROJECT_DIR$/002-acl-parent/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/002-acl-parent/service/service-acl/service-acl.iml" filepath="$PROJECT_DIR$/002-acl-parent/service/service-acl/service-acl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/002-acl-parent/common/service_base/service_base.iml" filepath="$PROJECT_DIR$/002-acl-parent/common/service_base/service_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/002-acl-parent/common/spring-security/spring-security.iml" filepath="$PROJECT_DIR$/002-acl-parent/common/spring-security/spring-security.iml" />
+    </modules>
+  </component>
+</project>

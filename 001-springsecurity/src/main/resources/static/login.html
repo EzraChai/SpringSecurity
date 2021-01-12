@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Login</title>
+</head>
+<style>
+    body{
+        font-family: "Nexa Bold";
+    }
+
+    input{
+        border-radius: 10px;
+    }
+
+    .container{
+        margin: 7% 35%;
+        border-radius: 49px;
+        padding: 20px 20px;
+        padding-bottom: 40px;
+        background: linear-gradient(45deg, #e6e6e6, #ffffff);
+        box-shadow:  10px -10px 37px #b0b0b0,
+        -10px 10px 37px #ffffff;
+    }
+
+</style>
+<body>
+<div align="center">
+    <div class="container">
+    <h1>Login</h1>
+    <form action="/user/login" method="post">
+        <table>
+            <tr>
+                <td>Username</td>
+                <td><input type="text" name="username"></td>
+            </tr>
+            <tr>
+                <td>Password</td>
+                <td><input type="password" name="password"></td>
+            </tr>
+            <tr>
+                <td>Auto-Login</td>
+                <td><input type="checkbox" name="remember-me"></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><input type="submit" value="Login"></td>
+            </tr>
+        </table>
+    </form>
+</div>
+</div>
+</body>
+</html>
